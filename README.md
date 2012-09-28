@@ -47,7 +47,7 @@ I had to use all of them in order to prevent keycode collisions with builtin fun
 * s - shows comp
 * + - increases opacity by 5 percent
 * - - descreases opacity by 5 percent
-* 0..9 - shows registered comp by numerical index
+* 1..9 - shows registered comp by numerical index
 
 ## Licensing:
 
