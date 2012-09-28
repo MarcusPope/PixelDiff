@@ -37,8 +37,8 @@ To load comps for a given page:
 
 ## Keyboard Commands:
 
-Keyboard commands require Ctrl & Shift keys to be pressed then a key from the following list.
-This is complex in order to prevent keycode collisions with builtin browser functionality.
+Keyboard commands require Ctrl, Alt & Shift keys to be pressed at the same time, then a key from the following list.
+I had to use all of them in order to prevent keycode collisions with builtin functionality in various browsers.
 
 * Arrow Keys - moves comp in respective direction (up, down, left, right) by 1px
 * b - sends comp to back of z-index
